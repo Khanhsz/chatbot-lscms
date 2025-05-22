@@ -1,0 +1,6 @@
+streamlit
+openai
+llama-index
+pillow
+pytesseract
+pymupdf
